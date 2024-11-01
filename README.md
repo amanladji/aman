@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanladji
+- 👋 Hi, I’m @aman
 - 👀 I’m interested in building projects
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
